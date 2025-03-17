@@ -1,0 +1,14 @@
+C:\Users\PC\Documents\c#\Tp2_ex2\Tp2_ex2\bin\Debug\net9.0\Tp2_ex2.exe
+C:\Users\PC\Documents\c#\Tp2_ex2\Tp2_ex2\bin\Debug\net9.0\Tp2_ex2.deps.json
+C:\Users\PC\Documents\c#\Tp2_ex2\Tp2_ex2\bin\Debug\net9.0\Tp2_ex2.runtimeconfig.json
+C:\Users\PC\Documents\c#\Tp2_ex2\Tp2_ex2\bin\Debug\net9.0\Tp2_ex2.dll
+C:\Users\PC\Documents\c#\Tp2_ex2\Tp2_ex2\bin\Debug\net9.0\Tp2_ex2.pdb
+C:\Users\PC\Documents\c#\Tp2_ex2\Tp2_ex2\obj\Debug\net9.0\Tp2_ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\c#\Tp2_ex2\Tp2_ex2\obj\Debug\net9.0\Tp2_ex2.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\c#\Tp2_ex2\Tp2_ex2\obj\Debug\net9.0\Tp2_ex2.AssemblyInfo.cs
+C:\Users\PC\Documents\c#\Tp2_ex2\Tp2_ex2\obj\Debug\net9.0\Tp2_ex2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\c#\Tp2_ex2\Tp2_ex2\obj\Debug\net9.0\Tp2_ex2.dll
+C:\Users\PC\Documents\c#\Tp2_ex2\Tp2_ex2\obj\Debug\net9.0\refint\Tp2_ex2.dll
+C:\Users\PC\Documents\c#\Tp2_ex2\Tp2_ex2\obj\Debug\net9.0\Tp2_ex2.pdb
+C:\Users\PC\Documents\c#\Tp2_ex2\Tp2_ex2\obj\Debug\net9.0\Tp2_ex2.genruntimeconfig.cache
+C:\Users\PC\Documents\c#\Tp2_ex2\Tp2_ex2\obj\Debug\net9.0\ref\Tp2_ex2.dll

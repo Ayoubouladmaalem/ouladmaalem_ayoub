@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tp2_ex2", "Tp2_ex2\Tp2_ex2.csproj", "{ADD055E6-37C0-489B-B663-5DB05A369ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD055E6-37C0-489B-B663-5DB05A369ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD055E6-37C0-489B-B663-5DB05A369ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD055E6-37C0-489B-B663-5DB05A369ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD055E6-37C0-489B-B663-5DB05A369ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
